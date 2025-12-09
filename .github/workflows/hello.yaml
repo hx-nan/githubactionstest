@@ -9,5 +9,4 @@ jobs:
 
     steps:
       - name: Print hello
-        run: echo "Hello world"
-        
+        run: cat README.md
